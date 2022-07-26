@@ -1,0 +1,60 @@
+{
+    "user": {
+        "louella": {
+            "username": "louella",
+            "email": "louella.wallace@example.com",
+            "password": "louella1234",
+            "user_data": {
+                "first_name": "Louella",
+                "last_name": "Wallace",
+                "birth_date": "1963-03-22"
+            }
+        },
+        "pauline": {
+            "username": "pauline",
+            "email": "pauline.rogers@example.com",
+            "password": "pauline1234",
+            "user_data": {
+                "first_name": "Pauline ",
+                "last_name": "Rogers",
+                "birth_date": "1962-10-25"
+            }
+        },
+        "krin": {
+            "username": "krin",
+            "email": "krin.hamilton@example.com",
+            "password": "krin1234",
+            "user_data": {
+                "first_name": "Krin",
+                "last_name": "Hamilton",
+                "birth_date": "1956-04-02"
+            }
+        }
+    },
+    "trader": {
+        "josdanind": {
+            "username": "josdanind",
+            "email": "josdanind@example.com",
+            "password": "josdanind1234",
+            "trader_data": {
+                "first_name": "José Daniel",
+                "last_name": "Navarrete Díaz",
+                "birth_date": "1989-09-10",
+                "position": "trader",
+                "access_level": 1
+            }
+        },
+        "michelle": {
+            "username": "michelle",
+            "email": "michelle.wright@example.com",
+            "password": "michelle1234",
+            "trader_data": {
+                "first_name": "Michelle",
+                "last_name": "Wright",
+                "birth_date": "1985-07-5",
+                "position": "trader",
+                "access_level": 1
+            }
+        }
+    }
+}
